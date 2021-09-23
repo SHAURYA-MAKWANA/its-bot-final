@@ -94,6 +94,6 @@ client.on("message", async message => {
 });
 
 import("/home/runner/discord-moderation/node_modules/discord.js/typings/index")
-client.login("ODkwMTY3NDg4OTEyOTQ5MjU4.YUr3Ew.m4EiDuXzbEInOMDgOCxbhgM3qiw");
+client.login("BOT_TOKEN");
 
 //Bot Coded by dashdaber154 DONOT share WITHOUT credits!!
